@@ -5,13 +5,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqk&show_icons=true)
-
 ![myfile](giphy.gif)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqk&show_icons=true)
 
 ## 兴趣
 - 加班、死命的加班
--
+
 
 ## 我的技术栈
 <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scikitlearn.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scipy.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachespark.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />
