@@ -19,17 +19,11 @@ You can click the Preview link to take a look at your changes.
 ## 正在学习
 <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" /><img height="48" width="48" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" /><img height="48" width="48" src="https://unpkg.com/simple-icons@v5/icons/kubernetes.svg" /><img height="48" width="48" src="https://unpkg.com/simple-icons@v5/icons/qiskit.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/heroku.svg" />
 
-## 联系或关注我
+## 关注我
 <a href="https://www.youtube.com/channel/UCTn7YZfc-wNDOcYf63Ocgjw">
   <img
     alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.icl.site">
-  <img
-    alt="ICL"
-    src="https://www.icl.site/images/icllogo.png"
   />
 </a>
 
