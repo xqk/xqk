@@ -4,8 +4,8 @@
 - 👯 I’m looking to collaborate on Zero-shot learning
 - 🌈 How to reach me: xiaqiankun@outlook.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqk&show_icons=true&theme=buefy&count_private=true&hide=prs&line_height=24.3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqk&layout=compact&show_icons=true&theme=buefy&hide=javascript,html,typescript,css,glsl,&langs_count=6&card_width=270)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqk&show_icons=true&theme=swift&count_private=true&hide=prs&line_height=24.3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqk&layout=compact&show_icons=true&theme=swift&hide=javascript,html,typescript,css,glsl,&langs_count=6&card_width=270)
 
 ![myfile](giphy.gif)
 
