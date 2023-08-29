@@ -9,7 +9,6 @@
 
 [![Top Langs](https://github-readme-stats-l23213f2v.vercel.app/api/top-langs/?username=xqk&hide=html,scss,css,lua,shell,less&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![myfile](giphy.gif)
 
 <!--
 **AnonymousDestroyer/AnonymousDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
