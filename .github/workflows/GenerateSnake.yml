@@ -26,6 +26,6 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          author_name: xqk-bot
-          author_email: xiaqiankun@outlook.me
+          author_name: xqk
+          author_email: xiaqiankun@outlook.com
           message: 'Generate Contribution Snake' 
