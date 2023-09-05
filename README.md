@@ -21,3 +21,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 28 August 2023 - To: 04 September 2023
+
+Python     24 hrs 6 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜   92.42 %
+Bash       30 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.97 %
+C++        23 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.47 %
+Text       18 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.16 %
+Markdown   16 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.02 %
+```
+
+<!--END_SECTION:waka-->
+
+<div align="center">
+    <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
+        src="general.svg">
+    <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
+        src="misc.svg">
+</div>
