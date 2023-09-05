@@ -1,0 +1,63 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🦑 Basic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: basic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          
+          plugin_lines: yes
+          plugin_traffic: yes
+
+      - name: 🦑 General
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_order: habits, isocalendar
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          config_timezone: Asia/Shanghai
+          
+      - name: 🦑 Misc
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: misc.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_order: wakatime, stars
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, languages, editors, os
+
+          plugin_stars: yes
+          plugin_stars_limit: 6
+          
