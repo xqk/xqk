@@ -16,8 +16,6 @@ jobs:
           filename: basic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_ID }}
           
           plugin_lines: yes
           plugin_traffic: yes
@@ -30,8 +28,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_order: habits, isocalendar
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_ID }}
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -50,8 +46,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_order: wakatime, stars
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_ID }}
 
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
