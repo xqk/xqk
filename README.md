@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+:bar_chart: **This week I spent my time on:**
+
 <!--START_SECTION:waka-->
 
 ```txt
