@@ -35,6 +35,10 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <div align="center">
+    <img style="width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
+        src="basic.svg">
+</div>
+<div align="center">
     <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
         src="general.svg">
     <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
