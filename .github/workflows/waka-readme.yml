@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '0 0,9,12,18,22 * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme:
@@ -17,7 +17,6 @@ jobs:
           COMMIT_MESSAGE: Update Wakapi stats
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
-          LANG_COUNT: 10
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_TIME: true
