@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ---
 
-:bar_chart: **This week I spent my time on:**
+:bar_chart: **These 30 days I spent my time on:**
 
 <!--START_SECTION:waka-->
 
