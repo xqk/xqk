@@ -28,6 +28,10 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+<div align="center">
+    <img src="https://bubkoo-server.vercel.app/365dots" height="196"/>
+</div>
+
 ---
 
 <div align="center">
