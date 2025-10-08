@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 05 October 2025
+From: 06 September 2025 - To: 06 October 2025
 
 Total Time: 13 hrs 14 mins
 
